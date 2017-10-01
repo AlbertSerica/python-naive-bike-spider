@@ -1,0 +1,3 @@
+*.html
+bike_spider/__pycache__
+.vscode/
